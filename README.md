@@ -1,7 +1,10 @@
 ## Hi, I'm Anotida Jacob✋🏾
 
 # 💫 About Me:
->Cyber Security Student.<br>>Telone Centre For Learning, Hre, Zimbabwe.<br>>Network Security/IT/Governance, Risk and Compliance<br>>Currently searching for an internship.
+> Cyber Security Student.<br>
+> Telone Centre For Learning, Hre, Zimbabwe.<br>
+> Network Security/IT/Governance, Risk and Compliance<br>
+> Currently searching for an internship.
 
 
 # 💻 Tech Stack:
